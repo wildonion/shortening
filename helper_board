@@ -1,6 +1,12 @@
 
 
 
+➤ find the shortest path in the network graph using:
+   optimization methods like GA and FA
+   graph algorithms like DFS, BFS and A*
+   reinforcement learning algorithms like qlearning
+   other methods like greedy, dynamic programming, backtracking, divide and conquer, recursive and brute forcing
+
 
 https://www.youtube.com/watch?v=cme1jxw78-0
 https://www.youtube.com/watch?v=9lrHm_BsuU4
