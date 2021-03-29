@@ -1,1 +1,1 @@
-> Shortest Path Optimized using Genetic Algorithm
+> Shortest Path Optimized using Various CS Algorithms
