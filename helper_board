@@ -4,11 +4,13 @@
 ➤ find the shortest path in the network graph using:
    hybrid tech algorithms like NN, GA and neurofuzzy(ANFIS)
    optimization methods like GA and FA
-   graph algorithms like DFS, BFS and A*
+   graph theory algorithms like dijkstras, DFS, BFS and A*
    reinforcement learning algorithms like qlearning
-   other methods like greedy, dynamic programming, backtracking, divide and conquer, recursive and brute forcing
+   other algorithms using greedy, dynamic programming, backtracking, divide and conquer, recursive and brute forcing methods
 
 
+
+https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
 https://www.youtube.com/watch?v=cme1jxw78-0
 https://www.youtube.com/watch?v=9lrHm_BsuU4
 https://www.youtube.com/watch?v=3GAfjE_ChRI
