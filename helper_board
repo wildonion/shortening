@@ -4,7 +4,7 @@
 ➤ find the shortest path in the network graph using:
    hybrid tech algorithms like NN, GA and neurofuzzy(ANFIS)
    optimization methods like GA and FA
-   graph theory algorithms like dijkstras, DFS, BFS and A*
+   graph theory algorithms like dijkstras, floyd, DFS, BFS and A*
    reinforcement learning algorithms like qlearning
    other algorithms using greedy, dynamic programming, backtracking, divide and conquer, recursive and brute forcing methods
 
